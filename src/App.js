@@ -20,6 +20,8 @@ class App extends React.Component{
       {id:7,tltle:'난 굉장해',desc:'이원진 사랑해'},
       {id:8,tltle:'ㅇㅈ',desc:'오예찬 사랑해'},
       {id:9,tltle:'ㅇ ㅇㅈ',desc:'예찬이 최고'},
+      {id:10,tltle:'아',desc:'원진 사랑해'},
+      {id:11,tltle:'ㅅㅅ',desc:'원진이 최고'}
 
     ],
     introduction:
