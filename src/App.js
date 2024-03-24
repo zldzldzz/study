@@ -17,7 +17,10 @@ class App extends React.Component{
       {id:4,tltle:'절망',desc:'이게 진짜 무슨 내용이야'},
       {id:5,tltle:'극복',desc:'그럼 시발 할 수 있는 것 부터 한다.'},
       {id:6,tltle:'응애',desc:'이원진 똑똑이'},
-      {id:7,tltle:'난 굉장해',desc:'이원진 사랑해'}
+      {id:7,tltle:'난 굉장해',desc:'이원진 사랑해'},
+      {id:8,tltle:'ㅇㅈ',desc:'오예찬 사랑해'},
+      {id:9,tltle:'ㅇ ㅇㅈ',desc:'예찬이 최고'},
+
     ],
     introduction:
       {name:'leewonjin',age:'21',university:'안양대'}
