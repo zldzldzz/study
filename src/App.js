@@ -16,7 +16,7 @@ class App extends React.Component{
       {id:3,tltle:'진정',desc:'시발 별거 없을거야 할 수 있다.'},
       {id:4,tltle:'절망',desc:'이게 진짜 무슨 내용이야'},
       {id:5,tltle:'극복',desc:'그럼 시발 할 수 있는 것 부터 한다.'},
-      {id:6,tltle:'응애',desc:'이원진 바보'},
+      {id:6,tltle:'응애',desc:'이원진 똑똑이'},
       {id:7,tltle:'난 굉장해',desc:'이원진 사랑해'}
     ],
     introduction:
